@@ -1,0 +1,9 @@
+Login Info:
+
+UserId = admin
+
+Password = admin
+
+Database Info:
+
+Database name = Showroom_Management_System

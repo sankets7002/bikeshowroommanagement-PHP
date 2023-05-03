@@ -1,0 +1,83 @@
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.pdb
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Form1.resources
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.GenerateResource.Cache
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.exe
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.pdb
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.pdb
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csprojAssemblyReference.cache
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Form1.resources
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.GenerateResource.cache
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CoreCompileInputs.cache
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.exe
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.pdb
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\XanderUI.dll
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CopyComplete
+C:\Users\dani\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard.resources
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\bin\Debug\XanderUI.dll
+C:\Users\asp\Desktop\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard.resources
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Classical_Cars.resources
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.GenerateResource.cache
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.exe
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.pdb
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.pdb
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CoreCompileInputs.cache
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CopyComplete
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Customers.resources
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Exotic_cars.resources
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.exe
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.pdb
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.pdb
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Classical_Cars.resources
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Customers.resources
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Exotic_cars.resources
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.GenerateResource.Cache
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csprojResolveAssemblyReference.cache
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Login.resources
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.pdb
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csprojAssemblyReference.cache
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Classical_Cars.resources
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Customers.resources
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard.resources
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Exotic_cars.resources
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Login.resources
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.GenerateResource.cache
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CoreCompileInputs.cache
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CopyComplete
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.exe
+C:\Users\dani\Desktop\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.pdb
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csprojAssemblyReference.cache
+C:\Users\dani\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard2.resources
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard2.resources
+C:\Users\asp\Desktop\project\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Login.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.pdb
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.AssemblyReference.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.SuggestedBindingRedirects.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Classical_Cars.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Customers.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard2.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Exotic_cars.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Login.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.GenerateResource.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CoreCompileInputs.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.csproj.CopyComplete
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.exe
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.pdb

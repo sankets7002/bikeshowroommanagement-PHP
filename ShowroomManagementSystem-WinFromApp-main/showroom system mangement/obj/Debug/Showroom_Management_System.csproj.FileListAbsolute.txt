@@ -1,0 +1,32 @@
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.exe
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\bin\Debug\showroom system mangement.pdb
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\Showroom_Management_System.csproj.AssemblyReference.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\Showroom_Management_System.csproj.SuggestedBindingRedirects.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Classical_Cars.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Customers.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard2.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Exotic_cars.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Login.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\Showroom_Management_System.csproj.GenerateResource.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\Showroom_Management_System.csproj.CoreCompileInputs.cache
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\Showroom_Management_System.csproj.CopyComplete
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.exe
+D:\git\Windows Forms Apps In C# Practice\project showroom\showroom system mangement\showroom system mangement\obj\Debug\showroom system mangement.pdb
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom system mangement.exe
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom system mangement.pdb
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\bin\Debug\showroom system mangement.exe
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\bin\Debug\showroom system mangement.pdb
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\Showroom_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom_system_mangement.Classical_Cars.resources
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom_system_mangement.Customers.resources
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom_system_mangement.Dashboard2.resources
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom_system_mangement.Exotic_cars.resources
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom_system_mangement.Login.resources
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom_system_mangement.Properties.Resources.resources
+C:\Users\Sanket Sawant\Downloads\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\Showroom_Management_System.csproj.GenerateResource.Cache
+D:\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\bin\Debug\showroom system mangement.exe.config
+D:\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom system mangement.exe
+D:\ShowroomManagementSystem-WinFromApp-main\showroom system mangement\obj\Debug\showroom system mangement.pdb

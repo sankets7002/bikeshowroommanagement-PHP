@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Showroom_Management_System", "showroom system mangement\Showroom_Management_System.csproj", "{FFFBE939-07D0-445F-9118-7DD0622ABEF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFBE939-07D0-445F-9118-7DD0622ABEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFBE939-07D0-445F-9118-7DD0622ABEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFBE939-07D0-445F-9118-7DD0622ABEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFBE939-07D0-445F-9118-7DD0622ABEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9D1A15-48A8-4677-83FC-45FC9D7C1BC5}
+	EndGlobalSection
+EndGlobal
